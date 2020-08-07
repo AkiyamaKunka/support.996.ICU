@@ -252,6 +252,7 @@ Supported by / 支持者:
 * JS Tan, Software Engineer, Microsoft
 * Julie Mayer, Senior Privacy Manager, Microsoft
 * Junhui Guan, Front-end Developer
+* Junjia Wang, Software Engineering Student, Nankai University
 * Junjie Lin, Student
 * JunSheng Wang, Software Developer, Giant
 * Kai Liu, Software Engineer, Beijing.China
